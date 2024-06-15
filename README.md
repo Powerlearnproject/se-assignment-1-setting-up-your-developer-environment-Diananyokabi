@@ -16,7 +16,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    isit the Microsoft Software Download Page:
 
 Go to the official Microsoft website for downloading Windows:
-Microsoft Software Download
+Microsoft Software Download ![alt text](OS.PNG)
 
 You will see a page similar to this:
 
