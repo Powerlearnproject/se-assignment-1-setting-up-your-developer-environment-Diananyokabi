@@ -20,18 +20,15 @@ Microsoft Software Download ![alt text](OS.PNG)
 
 You will see a page similar to this:
 
-
 Select Windows Version:
 
 Choose the version of Windows you want to download. This could be Windows 10 or Windows 11, depending on your preference and system requirements.
 
 Click on the "Download tool now" button or "Download Windows XX" (where XX is the version number).
 
-
 Download the Media Creation Tool:
 
 After clicking the download button, you will be prompted to download the Media Creation Tool. This tool allows you to create installation media or upgrade your current PC to Windows.
-
 
 Run the Media Creation Tool:
 
@@ -39,36 +36,29 @@ Once the Media Creation Tool is downloaded, run it by double-clicking the downlo
 
 You may see a user account control prompt asking for permission. Click "Yes" to continue.
 
-
 Accept License Terms:
 
 Read and accept the license terms to proceed with downloading Windows. Click on "Accept" to continue.
-
 
 Choose Installation Option:
 
 Select whether you want to upgrade your current PC or create installation media (USB flash drive, DVD, or ISO file) for another PC. For a new installation, choose "Create installation media (USB flash drive, DVD, or ISO file) for another PC" and click "Next".
 
-
 Select Language, Edition, and Architecture:
 
 Choose the language, edition, and architecture (32-bit or 64-bit) that matches your requirements. Ensure you select the correct options before proceeding.
-
 
 Choose Media Type:
 
 Select the media type you want to create (USB flash drive, DVD, or ISO file). If you choose USB flash drive, make sure it’s connected to your computer. Click "Next".
 
-
 Download and Create Installation Media:
 
 The tool will now download the necessary files and create the installation media according to your selections.
 
-
 Finish and Verify:
 
 Once the process completes, you’ll see a confirmation message. Follow any additional prompts to finish the process.
-
 
 Installation Media Ready:
 
@@ -134,7 +124,6 @@ Ensure your computer meets the minimum system requirements for the selected vers
    git push -u origin main
 
 
-
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
@@ -158,7 +147,6 @@ Ensure your computer meets the minimum system requirements for the selected vers
 
 
 
-
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
    
@@ -178,7 +166,6 @@ Ensure your computer meets the minimum system requirements for the selected vers
    -To install a specific version of a package: pip install package_name==version_number
    -To upgrade a package: pip install --upgrade package_name
    -To uninstall a package: pip uninstall package_name
-
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
